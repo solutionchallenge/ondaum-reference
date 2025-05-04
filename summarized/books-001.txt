@@ -1,0 +1,24 @@
+Summary: Person-Centred Counselling
+
+Person-Centred Counselling, developed by Carl Rogers, is a humanistic approach that emphasizes the therapeutic relationship over specific techniques. It is grounded in the belief that individuals possess an inherent capacity for self-healing and personal growth when provided with a facilitative environment (McLeod, 2007).
+
+A defining feature of this approach is the emphasis on the core conditions identified by Rogers (1957) as necessary and sufficient for therapeutic change:
+	1.	There is psychological contact between client and counsellor.
+	2.	The client is in a state of incongruence, experiencing vulnerability or anxiety.
+	3.	The counsellor is congruent (genuine) within the relationship.
+	4.	The counsellor experiences unconditional positive regard toward the client.
+	5.	The counsellor has an empathic understanding of the client’s internal frame of reference and endeavors to communicate this understanding.
+	6.	The client perceives, at least minimally, the counsellor’s empathic understanding and unconditional positive regard.
+
+Key Concepts:
+	•	Empathy: The counsellor’s deep, precise understanding of the client’s world, communicated effectively. While earlier interpretations of empathy focused on reflective listening, modern perspectives emphasize the counsellor’s active engagement and authentic presence (McLeod, 2007).
+	•	Congruence: The counsellor’s authenticity and alignment between inner experience and outward expression. This fosters trust and encourages the client’s own self-exploration (McLeod, 2007).
+	•	Unconditional Positive Regard: A nonjudgmental acceptance of the client’s experiences, affirming their intrinsic worth regardless of behavior or feelings. This climate of acceptance allows clients to embrace and integrate disowned aspects of themselves (McLeod, 2007).
+
+Philosophical Foundations:
+
+Person-centred counselling draws from phenomenology and existentialism, prioritizing subjective experience and the client’s personal reality. The counsellor adopts a bracketing stance, setting aside personal biases and theoretical assumptions to fully attend to the client’s perspective (McLeod, 2007).
+
+Historical Context:
+
+Emerging in the mid-20th century as a reaction against directive and interpretative methods, person-centred counselling was revolutionary for shifting the focus to the client’s own capacity for insight and growth. Its legacy continues to influence contemporary counselling and psychotherapy globally.

@@ -1,0 +1,19 @@
+Objective:
+This study aimed to evaluate the effectiveness of Emohaa, a Chinese-language chatbot designed to provide mental health support, in alleviating symptoms of depression, negative affect, and insomnia. The research also assessed the feasibility and user acceptance of chatbot-based interventions for mental health.
+
+Methods:
+The researchers recruited 301 participants via online advertisements and allocated them randomly into three groups: (1) Emohaa CBT-Bot, (2) Emohaa Full (CBT + ES-Bot), and (3) a control group. Participants completed pre-test (T1), post-test (T2), and follow-up (T3) surveys using validated instruments:
+	•	PHQ-9 (for depression),
+	•	GAD-7 (for anxiety),
+	•	PANAS (for positive/negative affect),
+	•	ISI (for insomnia).
+
+The intervention lasted for 21 days, during which participants in the experimental groups engaged with Emohaa daily, completing cognitive exercises and emotional conversations.
+
+Key Findings:
+	•	Emohaa significantly reduced depression, negative affect, and insomnia compared to the control group.
+	•	No significant differences were found between the CBT-Bot and Full versions in the short term, though supplemental analysis suggested a slight advantage of the ES-Bot (emotional support bot) in improving sleep issues over the long term.
+	•	Participants reported high satisfaction and willingness to recommend the chatbot. They also valued the platform’s ability to foster self-disclosure and provide a sense of being emotionally understood.
+
+Conclusion:
+The findings indicate that Emohaa is an effective, feasible, and acceptable tool for short-term mental health support. The study also highlights the potential of generative conversational agents (like the ES-Bot) for providing complementary emotional benefits alongside structured CBT interventions

@@ -1,0 +1,8 @@
+- book-001: `McLeod, J. (2007). An introduction to counselling (3rd ed.). Open University Press.`
+- thesis-001: `Banerjee P, Puri A, Mathur R, et al. Enhancing mental health referrals through AI-enabled chatbots. J Psychol Clin Psychiatry. 2024;15(6):299-301. DOI: 10.15406/jpcpy.2024.15.00795`
+- thesis-002: `Park, S., Choi, J., Lee, S., Oh, C., Kim, C., La, S., Lee, J., & Suh, B. (2019). Designing a chatbot for a brief motivational interview on stress management: Qualitative case study. Journal of Medical Internet Research, 21(4), e12231. https://doi.org/10.2196/12231`
+- thesis-003: `Sabour S, Zhang W, Xiao X, Zhang Y, Zheng Y, Wen J, Zhao J and Huang M (2023) A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China. Front. Digit. Health 5:1133987. doi: 10.3389/fdgth.2023.1133987`
+- thesis-004: `Filippis, R. and Foysal, A. (2024) Chatbots in Psychology: Revolutionizing Clinical Support and Mental Health Care. Voice of the Publisher, 10, 298-321. doi: 10.4236/vp.2024.103025.`
+- thesis-005: `Kang, B., & Hong, M. (2025). Development and evaluation of a mental health chatbot using ChatGPT 4.0: Mixed methods user experience study with Korean users. JMIR Medical Informatics, 13, e63538. https://doi.org/10.2196/63538`
+- thesis-006: `Coghlan S, Leins K, Sheldrick S, Cheong M, Gooding P, D’Alfonso S. To chat or bot to chat: Ethical issues with  using chatbots in mental health. DIGITAL HEALTH. 2023;9. doi:10.1177/20552076231183542`
+- article-001: `Psychology Today. (n.d.). AI chatbots for mental health: Opportunities and limitations. Retrieved from https://www.psychologytoday.com`

@@ -1,0 +1,15 @@
+	1.	Objective:
+The study aims to clarify whether higher social media use is associated with increased levels of depression in young adults, addressing inconsistent findings in previous literature.
+	2.	Methods:
+	•	Design: Cross-sectional survey.
+	•	Participants: 1,787 U.S. adults aged 19 to 32.
+	•	Measures:
+	•	Social media use was measured by both volume (total minutes per day) and frequency (visits per week) across major platforms.
+	•	Depression was assessed using the Patient-Reported Outcomes Measurement Information System (PROMIS) Depression Scale.
+	3.	Results:
+	•	There was a significant association: individuals in the highest quartile of social media use had a substantially greater risk of depression compared to those in the lowest quartile.
+	•	The relationship remained robust even after controlling for demographic variables and other factors (e.g., relationship status, living situation).
+	4.	Interpretation:
+The findings suggest that more frequent and prolonged social media use is correlated with increased depressive symptoms, though causality cannot be confirmed due to the study’s cross-sectional nature.
+	5.	Conclusions:
+The study emphasizes the need for awareness among healthcare providers and calls for longitudinal research to better understand causality.
