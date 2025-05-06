@@ -6,3 +6,5 @@
 - thesis-005: `Kang, B., & Hong, M. (2025). Development and evaluation of a mental health chatbot using ChatGPT 4.0: Mixed methods user experience study with Korean users. JMIR Medical Informatics, 13, e63538. https://doi.org/10.2196/63538`
 - thesis-006: `Coghlan S, Leins K, Sheldrick S, Cheong M, Gooding P, D’Alfonso S. To chat or bot to chat: Ethical issues with  using chatbots in mental health. DIGITAL HEALTH. 2023;9. doi:10.1177/20552076231183542`
 - article-001: `Psychology Today. (n.d.). AI chatbots for mental health: Opportunities and limitations. Retrieved from https://www.psychologytoday.com`
+- book-002: `Counseling Psychology 101. (n.d.). [PDF document]. Retrieved from http://218.50.55.20/mobile/lecture_plan/%EC%83%81%EB%8B%B4%EC%8B%AC%EB%A6%AC%ED%95%99.pdf`
+- dataset-001: `AI Hub. (n.d.). Korean single-turn conversation dataset with emotional information. Retrieved from https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=270`

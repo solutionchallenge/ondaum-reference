@@ -1,0 +1,14 @@
+Dataset Overview: Korean Single-Turn Conversation Dataset with Emotion Labels
+	•	Size: 38,594 rows (utterances)
+	•	Structure: 2 columns
+	•	Sentence: The conversational text (in Korean)
+	•	Emotion: The labeled emotion category (e.g., 공포 = Fear)
+	•	Example Entries:
+	1.	“언니 동생으로 부르는게 맞는 일인가요..??” → 공포 (Fear)
+	2.	“그냥 내 느낌일뿐겠지?” → 공포 (Fear)
+
+Key Features:
+	•	The dataset was built by web crawling social media posts and online comments to gather authentic, real-world sentences.
+	•	All text was segmented into individual sentences to ensure suitability for sentence-level emotion analysis.
+	•	Each sentence is annotated with one of seven emotion labels: Joy, Sadness, Surprise, Anger, Fear, Disgust, and Neutral.
+	•	The dataset is intended for developing and benchmarking emotion recognition systems in Korean natural language processing tasks, particularly in single-turn conversation contexts.
