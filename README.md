@@ -32,9 +32,9 @@ We strongly recommend consulting the original materials for authoritative and pr
 
 ## Copyright & Fair Use Position
 
-We affirm that the creation and use of these materials are firmly within the scope of **non-profit, public-interest use** as allowed under fair use provisions, in accordance with Article 35-3 of the Copyright Act (Republic of Korea) and equivalent doctrines internationally.
+We affirm that the creation and use of these materials are firmly within the scope of **non-profit, public-interest use** as allowed under fair use provisions, in accordance with Article 35-5 of the Copyright Act (Republic of Korea) and equivalent doctrines internationally.
 
-> [Copyright Act, Act No. 20358, Feb. 27, 2024, amended by Act No. 14083, Mar. 22, 2016, art. 35-3 (S. Kor.)](https://elaw.klri.re.kr/eng_service/jomunPrint.do?hseq=65951&cseq=2063077)
+> [Copyright Act, Act No. 20358, Feb. 27, 2024, amended by Act No. 14083, Mar. 22, 2016, art. 35-5 (S. Kor.)](https://elaw.klri.re.kr/eng_service/jomunPrint.do?hseq=65951&cseq=2063077)
 
 We stress that no part of these files should be interpreted as a **replacement for** or **redistribution of** copyrighted materials. Our goal is to advance public health and psychological well-being through open, ethical development.
 
