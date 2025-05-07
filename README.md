@@ -2,7 +2,7 @@
 
 ## About the Association
 
-We (also known as "kkeunapul"; case-insensitive) are a **voluntary, non-profit association** of developers united by the goal of contributing to the public good. Our mission is to build open-access tools and resources that provide psychological support to young adults facing challenges.
+We (also known as "ondaum"; case-insensitive) are a **voluntary, non-profit association** of developers united by the goal of contributing to the public good. Our mission is to build open-access tools and resources that provide psychological support to young adults facing challenges.
 
 This association is an **unincorporated body (비법인사단)** as defined under Korean law and does not possess legal personhood.  
 (*Civil Act [Minbeob], Act No. 471, Feb. 22, 1958, amended by Act No. 14965, Oct. 31, 2017, art. 275 (S. Kor.)*)
